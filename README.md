@@ -7,12 +7,6 @@
 1. Open pgAdmin and connect to your PostgreSQL server.
 2. Select a database.
 3. Click the **SQL button** in the toolbar or right-click the database and choose **Query Tool**.
-
-### psql (Command Line):
-1. Open a terminal.
-2. Run: `psql -U username -d database_name`.
-3. Enter your password.
-
 ---
 
 ## 2. SELECT Statement – Query Data from Tables and Columns
